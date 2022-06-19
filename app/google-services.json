@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199040845120",
+    "project_id": "sunenter-a96bf",
+    "storage_bucket": "sunenter-a96bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199040845120:android:e240ecdb7b511601cd66a5",
+        "android_client_info": {
+          "package_name": "com.example.ilaiyaraja.sunenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199040845120-86ld14l31t2l8hcjrs9itmdfhharts3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLT-8xaKPYNT70NZ6DA3amzT9FUJgWCCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199040845120-86ld14l31t2l8hcjrs9itmdfhharts3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
